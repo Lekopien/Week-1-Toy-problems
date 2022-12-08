@@ -29,7 +29,7 @@ function studentGradeGenerator() {
     }
 
     else {
-        console.log("Invalid marks")
+        console.log("Failed")
     }
 
 }
